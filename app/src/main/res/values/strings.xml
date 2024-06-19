@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExcessM</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_login">Click Here to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="provide_your_account_s_email_for_which_you_want_to_reset_your_password">Provide your account\'s email for which you want to reset your password!</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+</resources>

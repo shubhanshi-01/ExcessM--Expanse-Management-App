@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273245734666",
+    "project_id": "excessm-bf6ce",
+    "storage_bucket": "excessm-bf6ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273245734666:android:38735944182ed2fca09cf3",
+        "android_client_info": {
+          "package_name": "com.example.excessm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYDZDplomVAh5ielcSQYEqujhx0aJN3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
